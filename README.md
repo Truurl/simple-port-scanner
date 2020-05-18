@@ -1,2 +1,2 @@
 # simple-port-scanner
-Port scanner usuing TCP and UDP.
+Port scanner using TCP and UDP.
